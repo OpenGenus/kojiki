@@ -1,0 +1,2 @@
+ AI work includes everything from planning and searching for solutions (for instance, solving problems with many constraints) to machine learning.
+ AI also includes work on neural networks and machine learning, which is designed to solve difficult problems by allowing computers to discover patterns in a large set of input data.
