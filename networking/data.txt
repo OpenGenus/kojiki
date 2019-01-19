@@ -1,0 +1,2 @@
+Networking covers topics dealing with device interconnection, and is closely related to systems.
+Network design deals with anything from laying out a home network to figuring out the best way to link together military installations. 
