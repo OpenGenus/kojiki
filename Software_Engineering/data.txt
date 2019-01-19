@@ -1,0 +1,2 @@
+Software engineering relies on some of the work from the programming languages community, and deals with the design and implementation of software.
+Software engineering is generally a practical discipline, with a focus on designing and working on large-scale projects.
