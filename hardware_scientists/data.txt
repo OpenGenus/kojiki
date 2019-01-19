@@ -1,0 +1,2 @@
+Computer hardware deals with building circuits and chips.
+Hardware design lies in the realm of engineering, and covers topics such as chip architecture, but also more general electrical engineering-style circuit design.
